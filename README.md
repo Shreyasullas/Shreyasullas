@@ -1,4 +1,4 @@
-Hi, I'm Shreyas Ullas 👋
+## Hi, I'm Shreyas Ullas 👋  
 Data Science & AI/ML | Data Analytics | Python | SQL | Power BI
 
 🎓 Computer Science & Engineering graduate specializing in Data Science
