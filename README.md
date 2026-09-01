@@ -12,7 +12,7 @@ Data Science & AI/ML | Data Analytics | Python | SQL | Power BI
 
 ### Programming & Data
 
-Python `SQL` `C` `JavaScript`
+`Python` `SQL` `C` `JavaScript`
 
 ### Data Analysis & Visualization
 
