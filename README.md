@@ -25,7 +25,7 @@ I enjoy turning data into meaningful insights and building practical machine lea
 
 ### Programming & Data
 
-`Python` `SQL` `C` `JavaScript`
+Python `SQL` `C` `JavaScript`
 
 ### Data Analysis & Visualization
 
